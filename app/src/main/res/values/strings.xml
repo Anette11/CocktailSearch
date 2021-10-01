@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CocktailSearch</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="category">{category}</string>
+    <string name="search_cocktail_by_category">Search cocktail by category:</string>
+    <string name="categories">Categories</string>
+    <string name="alcoholic">Alcoholic</string>
+    <string name="non_alcoholic">Non Alcoholic</string>
+    <string name="cocktail_image">Cocktail image</string>
+    <string name="cocktail_bottom_sheet_dialog_fragment">cocktailBottomSheetDialogFragment</string>
+</resources>
